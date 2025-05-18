@@ -31,7 +31,7 @@
     <PackageReference Include="Microsoft.Identity.Web.TokenAcquisition" Version="2.19.1" />
     <PackageReference Include="Microsoft.Identity.Web.TokenCache" Version="2.19.1" />
     <PackageReference Include="Microsoft.Identity.Web.UI" Version="2.19.1" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.0" />
   </ItemGroup>
 
 </Project>
